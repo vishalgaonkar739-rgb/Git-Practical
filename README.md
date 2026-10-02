@@ -1,4 +1,4 @@
-# Git-Practical-Assignment
+# Git-Practical
 
 **Student Name:** Vishal Gaonkar
 **Roll Number:** [27]
